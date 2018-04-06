@@ -206,7 +206,7 @@ margin-bottom: 15px;
     left: 50%;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
-    margin-bottom: 1.2rem;
+    margin-bottom: 1rem;
    
 }
 .textcontainer h4 {
@@ -217,6 +217,7 @@ margin-bottom: 15px;
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
     margin-bottom: 1rem;
+  
    
 }
 }
