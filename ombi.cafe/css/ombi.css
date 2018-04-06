@@ -1,0 +1,275 @@
+.btn-ombi:hover {
+  color: #000000;
+  background-color: #;
+  border-color: #01549b;
+}
+
+border-ombi {
+	border:15px solid #021a40;
+}
+
+.avatar {
+    width:128px;
+    margin: 10px;
+    border:10px solid red;
+    border-radius: 500px;
+    -webkit-border-radius: 500px;
+    -moz-border-radius: 500px;
+}
+
+
+@media (min-width: 768px) {
+    #background {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 100%
+    min-height: 100%;
+    max-width: 100%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(polina.jpg) no-repeat;
+    background-size: cover;
+}
+}
+
+@media (max-width: 767px) {
+  #background {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    min-width: 10%
+    min-height: 10%;
+    width: auto;
+    height: auto;
+    z-index: -100;
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+    background: url(polina.jpg) no-repeat;
+    background-size: cover;
+}
+}
+
+
+@media (min-width: 992px) {  
+.textcontainer {
+  height: auto;
+
+}
+.textcontainer h3 {
+    margin: 0;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
+    margin-bottom: 5px;
+}
+
+.textcontainer h4 {
+    margin: 0;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-bottom: 30px;
+}
+
+.textcontainer1 h3 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
+    margin-bottom: 5px;
+}
+
+.textcontainer1 h4 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-bottom: 30px;
+}
+}
+
+@media (max-width:991px) and (min-width:768px) {  
+.textcontainer {
+  height: auto;
+
+}
+.textcontainer h3 {
+    margin: 0;
+    position: absolute;
+    top: 6%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
+    margin-bottom: 1.4rem;
+ 
+}
+
+.textcontainer h4 {
+    margin: 0;
+    position: absolute;
+    top: 6%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-bottom: .8rem;
+}
+
+.textcontainer1 h3 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
+    margin-bottom: 30px;
+}
+
+.textcontainer1 h4 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-bottom: 30px;
+}
+}
+
+@media (max-width:767px) and (min-width:576px) {  
+.textcontainer {
+  height: auto;
+
+}
+.textcontainer h3 {
+    margin: 0;
+    position: absolute;
+    top: 2%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
+    margin-bottom: 10px;
+}
+
+.textcontainer h4 {
+    margin: 0;
+    position: absolute;
+    top: 2%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-bottom: 10px;
+}
+
+.textcontainer1 h3 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%); 
+    margin-bottom: 5px;
+}
+
+.textcontainer1 h4 {
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-bottom: 30px;
+}
+}
+
+@media (max-width: 575px) {  
+.textcontainer {
+  height: auto;
+margin-bottom: 15px;
+margin-right: 5%;
+margin-left: 5%;
+}
+.textcontainer h3 {
+    margin: 0;
+    position: absolute;
+    top: 00%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-bottom: 1rem;
+   
+}
+.textcontainer h4 {
+    margin: 0;
+    position: absolute;
+    top: 00%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    margin-bottom: 1rem;
+   
+}
+}
+
+@media (max-width: 575px) { 
+.space {
+    margin-top:-1.4rem;
+    margin-bottom: 3rem;
+}
+}
+
+@media (min-width: 576px) {
+.space {
+    margin-top:-.8rem;
+    margin-bottom: 4rem;
+}
+}
+
+@media (max-width: 575px) { 
+.space1 {
+    margin-top:-1.4rem;
+    margin-bottom: 3rem;
+}
+}
+
+
+@media (min-width: 576px) { 
+.spaceheader {
+    margin-bottom:1.8rem;
+}
+}
+
+@media (max-width: 575px) { 
+.spaceheader {
+    margin-bottom:2.4rem;
+}
+}
+
+@media (min-width: 576px) { 
+.spacebtn {
+    margin-bottom:2rem;
+}
+}
+
+
+.underline {
+    text-decoration: underline;
+}
+
+
+
+
+
+
+
